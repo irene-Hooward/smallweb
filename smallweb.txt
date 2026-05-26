@@ -21732,6 +21732,7 @@ https://otherorder.bearblog.dev/feed/
 https://otherother.bearblog.dev/feed/
 https://othmarstrombone.wordpress.com/feed
 https://otium.bearblog.dev/feed/
+https://otomekitten.com
 https://otonolujan.com/feed
 https://otpok.com/feed
 https://ottawa.place/@plantarum.rss
@@ -26867,6 +26868,7 @@ https://sunnyamrat.com/rss.xml
 https://sunnybak.net/rss
 https://sunriseprogrammer.blogspot.com/feeds/posts/default
 https://sunscales.bearblog.dev/atom.xml
+https://www.sunshineseeker.com/
 https://suntreeapps.com/blog/feed.xml
 https://supaiku.com/index.xml
 https://supakeen.com/weblog/index.xml
